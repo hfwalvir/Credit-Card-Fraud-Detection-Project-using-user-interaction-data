@@ -14,7 +14,7 @@ from matplotlib import gridspec
 # In[2]:
 
 
-data = pd.read_csv(r"C:\Users\Haya\Desktop\creditcard.csv")
+data = pd.read_csv("creditcard.csv")
 
 
 # In[3]:
